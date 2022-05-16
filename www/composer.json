@@ -1,0 +1,16 @@
+{
+    "name": "top/project",
+    "description": "Ton Project",
+    "keywords": ["ton", "crypto", "telegram"],
+    "homepage": "https://github.com/websofter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WebSofter",
+            "homepage": "https://wsofter.com/"
+        }
+    ],
+    "require": {
+        "psr/log": "1.1.*"
+    }   
+}
